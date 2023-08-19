@@ -22,7 +22,7 @@ This is an End-To-End Data Engineering Project using Airflow and Python. In this
 - Airflow
 - Working with Twitter Data and Package - Tweepy
 - Python Package - Pandas
-- Writing ETL job and storing data on S3
+- Writing ETL jobs and storing data on S3
 
 ## Output
 ![tw3 ooutput](https://user-images.githubusercontent.com/106689439/212612496-e77177fe-4d68-419d-b420-f5e857cf4428.jpg)
