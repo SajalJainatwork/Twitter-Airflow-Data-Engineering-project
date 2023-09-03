@@ -3,15 +3,15 @@
 ## Introduction 
 This is an End-To-End Data Engineering Project using Airflow and Python. In this project, I have extracted data using Twitter API, use Python to transform data, deploy the code on Airflow/EC2 and save the final result on Amazon S3.
 
-✅ Python
+✳Python
 
-✅ Basics of Airflow
+✳Basics of Airflow
 
-✅ Working with Twitter Data and Package - Tweepy
+✳Working with Twitter Data and Package - Tweepy
 
-✅ Python Package - Pandas
+✳Python Package - Pandas
 
-✅ Writing ETL job and storing data on S3
+✳Writing ETL job and storing data on S3
 
 
 ## Architecture
