@@ -1,3 +1,5 @@
+<img width="1550" height="861" alt="sjt" src="https://github.com/user-attachments/assets/08a4e2e0-a1b6-4dcf-8399-5b5669600af1" />
+
 # Twitter Data Pipeline using Airflow and AWS.
 
 ## Introduction 
